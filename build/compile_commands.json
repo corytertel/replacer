@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cory/Code/replacer/build",
+  "command": "/nix/store/jdnmdqrrjphi8n85d9d8im9ym30dkd68-clang-wrapper-13.0.0/bin/clang++                   -g3                 -pthread                 -gdwarf-4                 -fPIC                 -Wno-deprecated                 -pipe                 -fno-elide-type                 -fdiagnostics-show-template-tree                 -Wall                 -Wextra                 -Werror                 -Wreturn-type                 -Wpedantic                 -Wvla                 -Wextra-semi                 -Wnull-dereference                 -Wswitch-enum                 -Wsuggest-override                 -O                 -MP                 -Wno-gnu-include-next                 -Wno-unused-variable                 -Wno-unused-parameter -std=gnu++20 -o CMakeFiles/replacer.dir/main.cpp.o -c /home/cory/Code/replacer/main.cpp",
+  "file": "/home/cory/Code/replacer/main.cpp"
+}
+]

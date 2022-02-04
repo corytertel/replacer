@@ -1,0 +1,3 @@
+/home/cory/Code/replacer/build/CMakeFiles/replacer.dir
+/home/cory/Code/replacer/build/CMakeFiles/edit_cache.dir
+/home/cory/Code/replacer/build/CMakeFiles/rebuild_cache.dir
